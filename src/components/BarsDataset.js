@@ -51,3 +51,4 @@ const BarsDataset = ({ tableData }) => {
 };
 
 export default BarsDataset;
+ 
